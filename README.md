@@ -1,12 +1,15 @@
 # treatment-causal-transformer
-WACV 2023
+
+[Treatment Learning Causal Transformer for Noisy Image Classification](https://openaccess.thecvf.com/content/WACV2023/papers/Yang_Treatment_Learning_Causal_Transformer_for_Noisy_Image_Classification_WACV_2023_paper.pdf)
+
 
 
 ```bib
-@article{yang2022treatment,
-  title={Treatment Learning Transformer for Noisy Image Classification},
-  author={Yang, Chao-Han Huck and Hung, I and Danny, Te and Liu, Yi-Chieh and Chen, Pin-Yu},
-  journal={arXiv preprint arXiv:2203.15529},
-  year={2022}
+@inproceedings{yang2023treatment,
+  title={Treatment Learning Causal Transformer for Noisy Image Classification},
+  author={Yang, Chao-Han Huck and Hung, I-Te and Liu, Yi-Chieh and Chen, Pin-Yu},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={6139--6150},
+  year={2023}
 }
 ```

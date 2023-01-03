@@ -2,7 +2,7 @@
 
 [Treatment Learning Causal Transformer for Noisy Image Classification](https://openaccess.thecvf.com/content/WACV2023/papers/Yang_Treatment_Learning_Causal_Transformer_for_Noisy_Image_Classification_WACV_2023_paper.pdf)
 
-<img src="https://github.com/huckiyang/treatment-causal-transformer/blob/main/tlt.png" width="500">
+<img src="https://github.com/huckiyang/treatment-causal-transformer/blob/main/tlt.png" width="900">
 
 
 ```bib

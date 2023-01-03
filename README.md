@@ -3,7 +3,7 @@
 [Treatment Learning Causal Transformer for Noisy Image Classification](https://openaccess.thecvf.com/content/WACV2023/papers/Yang_Treatment_Learning_Causal_Transformer_for_Noisy_Image_Classification_WACV_2023_paper.pdf)
 
 
-## Treatment Learning Transformer
+## Treatment Learning Transformer Code
 
 
 ```python
@@ -13,7 +13,7 @@ python causal_trans.py
 
 Details in line (427) of the class Causal_Transformer
 
-## Treatment Effect
+## Treatment Effect Code
 
 Average Treatment Effect (ATE) batch evaluation
 

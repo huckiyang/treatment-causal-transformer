@@ -4,7 +4,7 @@
 
 <img src="https://github.com/huckiyang/treatment-causal-transformer/blob/main/tlt.png" width="900">
 
-If you find this work is related to your research, please consider to cite the following work.
+If you find this work is related to your research, please consider to cite the following work. Thank you!
 
 ```bib
 @inproceedings{yang2023treatment,

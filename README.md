@@ -17,8 +17,9 @@ Details in line (427) of the class Causal_Transformer
 
 Average Treatment Effect (ATE) batch evaluation
 
-- eval.py
-
+```python
+eval.py
+```
 
 ## Baseline setup:
 
